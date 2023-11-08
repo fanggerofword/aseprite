@@ -120,6 +120,6 @@ jobs:
 
         path: |
 
-          D:/a/aseprite/aseprite/build/bin/data
+          D:/developtoors/github/aseprite/aseprite/build/bin/data
 
-          D:/a/aseprite/aseprite/build/bin/aseprite.exe 
+          D:/developtoors/github/aseprite/aseprite/build/bin/aseprite.exe 
